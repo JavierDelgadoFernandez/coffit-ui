@@ -35,3 +35,15 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Build generation
+js/bundle.js
+js/bundle.min.js
+
+css/bundle.css
+css/bundle.min.css
+
+# KDE files
+.directory
+.kdev4/
+*.kdev4
